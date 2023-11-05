@@ -6,60 +6,53 @@ Op een zonnige ochtend besloot Timmy dat het tijd was om zijn droom waar te make
 
 Flowchart:
 
-Startpunt
+Verhaal:
+Welkom bij het avontuur van Timmy in het betoverde bos! Timmy is op weg naar het betoverde bos. Je komt aan bij een kruispunt. Ga je links (1) of rechts (2)?
 
-Ga verder naar "Timmy begint zijn avontuur."
-Timmy begint zijn avontuur
+Situatie 1:
 
-Timmy staat voor de ingang van het bos en moet beslissen welke kant hij op gaat.
-Linksaf het donkere bos in.
-Rechtsaf naar de kabbelende rivier.
-Het donkere bos
+Keuze 1: Je kiest links (1).
+Timmy heeft de linkse weg gekozen en komt bij een betoverend meer. Ga je zwemmen in het meer (1) of loop je verder (2)?
+Situatie 2:
 
-Timmy besluit het donkere bos in te gaan. Hij ziet een kruispunt.
-Linksaf, richting een mysterieuze grot.
-Rechtsaf, langs een kronkelend pad.
-Mysterieuze grot
+Keuze 2: Je kiest rechts (2).
+Timmy heeft de rechtse weg gekozen en komt bij een dichtbegroeid bos. Ga je het bos in (1) of keer je om (2)?
+Situatie 1.1:
 
-In de grot ontdekt Timmy glinsterende edelstenen.
-Besluit ze mee te nemen.
-Laat ze liggen en gaat verder.
-Kronkelend pad
+Keuze 1: Je gaat zwemmen in het meer (1).
+Timmy heeft een geweldige tijd aan het meer, [jouw naam].
+Einde van het spel.
+Situatie 1.2:
 
-Timmy komt bij een oude ruïne.
-Onderzoekt de ruïne.
-Besluit verder te gaan.
-De kabbelende rivier
+Keuze 2: Je loopt verder (2).
+Na je tijd in het dorp, vervolg je je reis en bereik je een mysterieus meer. Ga je het meer verkennen (1) of besluit je verder te reizen (2)?
+Situatie 1.2.1:
 
-Timmy volgt de rivier en komt bij een brug.
-Steek de brug over.
-Volg de rivier verder stroomafwaarts.
-Oversteek van de brug
+Keuze 1: Je gaat het meer verkennen (1).
+Je betreedt de oude tempel en ontdekt een magische kristal. Wil je de kristal meenemen (1) of de tempel verlaten (2)?
+Situatie 1.2.2:
 
-Timmy ontdekt een verlaten dorp.
-Verken het dorp.
-Ga verder.
-Verkenning van het dorp
+Keuze 2: Je besluit verder te reizen (2).
+Je reist verder en komt bij een betoverde bloementuin. Blijf je in de bloementuin (1) of ga je verder op zoek naar nieuwe avonturen (2)?
+Situatie 1.2.2.1:
 
-Timmy vindt aanwijzingen over een schat diep in het bos.
-Ga terug het bos in om de schat te vinden.
-Ga verder op de rivier om de schat te vinden.
-Het diepe bos
+Keuze 1: Je blijft in de bloementuin (1).
+Je geniet van de betoverende bloemen, [jouw naam].
+Einde van het spel.
+Situatie 1.2.2.2:
 
-Timmy vindt de schat, maar er zijn wilde dieren in de buurt.
-Probeer de schat voorzichtig te pakken.
-Maak wat lawaai om de dieren af te schrikken.
-Terug naar het dorp
+Keuze 2: Je gaat verder op zoek naar nieuwe avonturen (2).
+Je reist verder langs het betoverde meer en komt uiteindelijk aan bij een sprookjesachtig kasteel.
+Je hebt een geweldige reis gemaakt, [jouw naam], en vele avonturen beleefd.
+Einde van het spel.
+Situatie 2.1:
 
-Timmy heeft de schat veiliggesteld en keert terug naar het verlaten dorp.
-Keer terug naar het dorp.
-Ga verder stroomafwaarts om meer te ontdekken.
-Terug in het dorp
+Keuze 1: Je gaat het bos in (1).
+Timmy vervolgt zijn reis door het dichte bos. Je komt bij een betoverde waterval. Ga je bij de waterval blijven (1) of doorreizen (2)?
+Situatie 2.2:
 
-Het dorp juicht Timmy toe en viert zijn ontdekking.
-Blijf in het dorp en deel je avonturen met de dorpsbewoners.
-Vertrek op een nieuw avontuur.
-Einde van het verhaal
+Keuze 2: Je keert om (2).
+Na je tijd in het dorp, vervolg je je reis en bereik je een mysterieus meer. Ga je het meer verkennen (1) of besluit je verder te reizen (2)?
 
 Timmy heeft zijn droom waargemaakt en wordt een beroemde ontdekkingsreiziger.
 Dit is het verhaal van Timmy, de jonge ontdekkingsreiziger, vol avontuur en keuzes. Laat Timmy's beslissingen in jouw game het verhaal beïnvloeden en hem helpen zijn dromen waar te maken. Veel plezier met het spelen en ontdekken!
